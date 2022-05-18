@@ -1,0 +1,17 @@
+/home/denys/Desktop/test/Lab1/LinqLab1/bin/Debug/net6.0/LinqLab1
+/home/denys/Desktop/test/Lab1/LinqLab1/bin/Debug/net6.0/LinqLab1.deps.json
+/home/denys/Desktop/test/Lab1/LinqLab1/bin/Debug/net6.0/LinqLab1.runtimeconfig.json
+/home/denys/Desktop/test/Lab1/LinqLab1/bin/Debug/net6.0/LinqLab1.dll
+/home/denys/Desktop/test/Lab1/LinqLab1/bin/Debug/net6.0/ref/LinqLab1.dll
+/home/denys/Desktop/test/Lab1/LinqLab1/bin/Debug/net6.0/LinqLab1.pdb
+/home/denys/Desktop/test/Lab1/LinqLab1/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/denys/Desktop/test/Lab1/LinqLab1/obj/Debug/net6.0/LinqLab1.csproj.AssemblyReference.cache
+/home/denys/Desktop/test/Lab1/LinqLab1/obj/Debug/net6.0/LinqLab1.GeneratedMSBuildEditorConfig.editorconfig
+/home/denys/Desktop/test/Lab1/LinqLab1/obj/Debug/net6.0/LinqLab1.AssemblyInfoInputs.cache
+/home/denys/Desktop/test/Lab1/LinqLab1/obj/Debug/net6.0/LinqLab1.AssemblyInfo.cs
+/home/denys/Desktop/test/Lab1/LinqLab1/obj/Debug/net6.0/LinqLab1.csproj.CoreCompileInputs.cache
+/home/denys/Desktop/test/Lab1/LinqLab1/obj/Debug/net6.0/LinqLab1.csproj.CopyComplete
+/home/denys/Desktop/test/Lab1/LinqLab1/obj/Debug/net6.0/LinqLab1.dll
+/home/denys/Desktop/test/Lab1/LinqLab1/obj/Debug/net6.0/ref/LinqLab1.dll
+/home/denys/Desktop/test/Lab1/LinqLab1/obj/Debug/net6.0/LinqLab1.pdb
+/home/denys/Desktop/test/Lab1/LinqLab1/obj/Debug/net6.0/LinqLab1.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+/home/denys/Desktop/test/Lab1/LinqDemo/bin/Debug/net6.0/LinqDemo
+/home/denys/Desktop/test/Lab1/LinqDemo/bin/Debug/net6.0/LinqDemo.deps.json
+/home/denys/Desktop/test/Lab1/LinqDemo/bin/Debug/net6.0/LinqDemo.runtimeconfig.json
+/home/denys/Desktop/test/Lab1/LinqDemo/bin/Debug/net6.0/LinqDemo.dll
+/home/denys/Desktop/test/Lab1/LinqDemo/bin/Debug/net6.0/ref/LinqDemo.dll
+/home/denys/Desktop/test/Lab1/LinqDemo/bin/Debug/net6.0/LinqDemo.pdb
+/home/denys/Desktop/test/Lab1/LinqDemo/obj/Debug/net6.0/LinqDemo.csproj.AssemblyReference.cache
+/home/denys/Desktop/test/Lab1/LinqDemo/obj/Debug/net6.0/LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/denys/Desktop/test/Lab1/LinqDemo/obj/Debug/net6.0/LinqDemo.AssemblyInfoInputs.cache
+/home/denys/Desktop/test/Lab1/LinqDemo/obj/Debug/net6.0/LinqDemo.AssemblyInfo.cs
+/home/denys/Desktop/test/Lab1/LinqDemo/obj/Debug/net6.0/LinqDemo.csproj.CoreCompileInputs.cache
+/home/denys/Desktop/test/Lab1/LinqDemo/obj/Debug/net6.0/LinqDemo.dll
+/home/denys/Desktop/test/Lab1/LinqDemo/obj/Debug/net6.0/ref/LinqDemo.dll
+/home/denys/Desktop/test/Lab1/LinqDemo/obj/Debug/net6.0/LinqDemo.pdb
+/home/denys/Desktop/test/Lab1/LinqDemo/obj/Debug/net6.0/LinqDemo.genruntimeconfig.cache
+/home/denys/Desktop/test/Lab1/LinqDemo/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/denys/Desktop/test/Lab1/LinqDemo/obj/Debug/net6.0/LinqDemo.csproj.CopyComplete
