@@ -79,7 +79,7 @@ public class Queries
             g => g.SelectMany(i => i.ItemCategories).Distinct());
     }
     
-    public IEnumerable<Item> FindLaptopsByPriceRange(double fromPrice, double toPrice)
+    public IEnumerable<Item> FindLaptopsByPriceRange(decimal fromPrice, decimal toPrice)
         => _storage.Items.Where(i =>
             i.ItemCategories.Select(i => i.Name).Contains("laptop")
             && i.PricePerUnit >= fromPrice && i.PricePerUnit <= toPrice);
@@ -105,7 +105,7 @@ public class Queries
                     g.Where(i => i.ItemCategories.Select(c => c.Name).Contains("laptop")));
     
     // query
-    public double GetAveragePriceOfPhones()
+    public decimal GetAveragePriceOfPhones()
         => (from item in _storage.Items
                 where (item.ItemCategories.Select(c => c.Name).Contains("smartphone"))
                 select item)
